@@ -33,7 +33,7 @@ steps to run the app:
 
 -p is used to map the port 8765 of the docker container to the port 5050 of the host system.
 
-:go to http://127.0.0.1:5050 to view the dashboard.
+:go to http://127.0.0.1:5050 to view the dashboard. The live data is being read and updated on the dashboard.
 
 
 
