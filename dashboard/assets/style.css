@@ -1,0 +1,32 @@
+html,
+ body {
+ 
+   margin:0; 
+   background-image: url("e1.jpg");
+   background-color:#31B1CB;
+   background-position: center;
+  background-repeat: repeat;
+  background-size: cover;
+  height:100%
+
+   
+}
+button
+{position:relative;
+  border-radius:50%;
+  bottom:30px;
+  color:white;
+  padding:14px 40px;
+  background-color:#4289f4;
+  margin:auto;
+  display:block;
+}
+
+#close
+{
+  position:static;
+  border:none;
+  background:transparent;
+  float:right;
+
+}
