@@ -1,4 +1,6 @@
-# Health-Monitoring-App_using-csv-file there is not database used, we are assuming the data is already collected and stored in the csv file.
+# Health-Monitoring-App_using-csv-file 
+
+We are not collecting the data from the router in real time, but using the already available data which is stored in Routerdata.csv.
 
 1.  Routerdata.csv :this file containes the data values of 5 routers
 
