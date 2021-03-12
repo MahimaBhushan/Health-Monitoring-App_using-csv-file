@@ -22,11 +22,14 @@
 steps to run the app:
 
 1.  build the image 
+
 >>docker build -t healthapp .
 
 2.  run the image to form the container
+
 >>docker run -p 5050:8765 healthapp
-go to http://127.0.0.1:5050 to view the dashboard.
+
+:go to http://127.0.0.1:5050 to view the dashboard.
 
 
 Only one container is created here to run the dashboard, because we are not using any database or collect data file.
