@@ -31,7 +31,10 @@ steps to run the app:
 
 >>docker run -p 5050:8765 healthapp
 
+-p is used to map the port 8765 of the docker container to the port 5050 of the host system.
+
 :go to http://127.0.0.1:5050 to view the dashboard.
+
 
 
 Only one container is created here to run the dashboard, because we are not using any database or collect data file.
